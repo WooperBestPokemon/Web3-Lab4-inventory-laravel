@@ -7,6 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Lien vers la présentation Video : https://www.youtube.com/watch?v=9BAtma6DIvk
+Lien vers la présentation Video : https://www.youtube.com/watch?v=xdf__ELG_kk
 
 Made by : Jacob Maltais
